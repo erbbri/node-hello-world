@@ -1,0 +1,27 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "A simple Hello World App",
+  "engines": {
+            "node": 12.x"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erbbri/node-hello-world.git"
+  },
+  "keywords": [
+    "nodejs",
+    "heroku"
+  ],
+  "author": "Bridget Erb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erbbri/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/erbbri/node-hello-world#readme"
+}
